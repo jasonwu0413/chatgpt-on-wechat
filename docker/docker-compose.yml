@@ -22,3 +22,10 @@ services:
       USE_LINKAI: 'False'
       LINKAI_API_KEY: ''
       LINKAI_APP_CODE: ''
+      "channel_type": "wechatmp",    
+      "single_chat_prefix": [""], 
+      "wechatmp_app_id": "wx5fa2581f362047b2",     
+      "wechatmp_app_secret": "",  
+      "wechatmp_aes_key": "",
+      "wechatmp_token": "",
+      "wechatmp_port": 80
